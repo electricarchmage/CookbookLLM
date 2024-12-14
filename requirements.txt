@@ -2,3 +2,5 @@ langchain-ollama
 customtkinter
 tk
 textwrap
+json
+os
